@@ -79,6 +79,6 @@ hr.line1 {
 
 body {
     background-size: 100%;
-    background-image: url("https://cdn.upload.systems/uploads/5OmH7i1b.png");
+    background-image: "/static/img/siteBg.png";
     background-color: #9A0621;
 }
