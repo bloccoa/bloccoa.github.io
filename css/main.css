@@ -79,6 +79,6 @@ hr.line1 {
 
 body {
     background-size: 100%;
-    background-image: url("https://raw.githubusercontent.com/bloccoa/bloccoa.github.io/main/static/img/siteBg.png");
+    background-image: "/static/img/siteBg.png";
     background-color: #9A0621;
 }
