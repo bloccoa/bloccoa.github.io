@@ -78,6 +78,6 @@ hr.line1 {
 
 body {
     background-size: 100%;
-    background-image: "/static/img/siteBg.png";
+    background-image: url("/static/img/siteBg.png");
     background-color: #9A0621;
 }
